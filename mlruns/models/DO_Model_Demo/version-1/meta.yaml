@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1727520738130
+current_stage: None
+description: ''
+last_updated_timestamp: 1727520738130
+name: DO_Model_Demo
+run_id: c8aab24a7669403a872a38236eddea80
+run_link: ''
+source: file:///Users/fariddamania/Downloads/SEM%20VII/DevOps/MLFLow/mlruns/0/c8aab24a7669403a872a38236eddea80/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/fariddamania/Downloads/SEM%20VII/DevOps/MLFLow/mlruns/0/c8aab24a7669403a872a38236eddea80/artifacts/model
+user_id: null
+version: 1
